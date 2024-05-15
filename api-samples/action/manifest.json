@@ -1,5 +1,5 @@
 {
-    "name": "Action API Demo",
+    "name": "Action API Demo,Test",
     "version": "1.0",
     "description": "Uses the Action API to change the badge text, icon, hover text, or popup page.",
     "manifest_version": 3,
